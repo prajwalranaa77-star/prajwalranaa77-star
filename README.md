@@ -15,6 +15,7 @@
 ---
 
 ### 🛠️ Tools & Skills
+### 🛠️ Tools & Skills
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -22,11 +23,10 @@
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-blue?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge)
-![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-purple?style=for-the-badge)
-![Emergent](https://img.shields.io/badge/Emergent-AI%20Tools-black?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Framework-green?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0052CC?style=for-the-badge&logo=pinecone&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI-blue?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-AI-purple?style=for-the-badge)
+![Emergent](https://img.shields.io/badge/Emergent-AI-orange?style=for-the-badge)
 
 ---
 
