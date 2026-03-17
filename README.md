@@ -21,7 +21,12 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Pinecone](https://img.shields.io/badge/Pinecone-VectorDB-blue?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge)
+![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-purple?style=for-the-badge)
+![Emergent](https://img.shields.io/badge/Emergent-AI%20Tools-black?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-AI%20Framework-green?style=for-the-badge)
 
 ---
 
