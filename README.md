@@ -41,7 +41,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalrana123)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajwalrana77@gmail.com)
+[![Gmail](📧 prajwalranaa77@gmail.com)
 
 ---
 
