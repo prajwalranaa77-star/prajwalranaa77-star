@@ -66,10 +66,12 @@ superpower: Turning complex user problems into elegant product solutions
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🔧 Tech |
-|:---:|:---|:---:|
-| [🏋️ **VitaFit**](https://github.com/prajwalranaa77-star/VitaFit) | AI-powered fitness platform — personalized workouts & nutrition tracking | TypeScript |
-| [👤 **Prajwal-**](https://github.com/prajwalranaa77-star/Prajwal-) | Build your digital persona — AI-assisted identity builder | TypeScript |
+| 🏷️ Project | 📝 Description | 🔗 Live Demo | 🔧 Built With |
+|:---:|:---|:---:|:---:|
+| 🏋️ **VitaFit** | AI-powered fitness platform — personalized workouts & nutrition tracking | [▶ Live](https://vitafit-fitness.vercel.app/) | Lovable + Vercel |
+| 🎓 **Pathfinder** | AI learning guide — personalized education pathways for every learner | [▶ Live](https://pathfinder-learner-guide.vercel.app/) | Lovable + Vercel |
+| 🐾 **Pet Salon** | On-demand pet grooming & salon booking platform | [▶ Live](https://pet-salon-seven.vercel.app/) | Lovable + Vercel |
+| 🍽️ **QuickPlate** | Smart meal planner for busy users — quick healthy meals in seconds | [▶ Live](https://quickplate-for-busy-user.vercel.app/) | Lovable + Vercel |
 
 </div>
 
