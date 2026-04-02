@@ -72,6 +72,8 @@ superpower: Turning complex user problems into elegant product solutions
 | 🎓 **Pathfinder** | AI learning guide — personalized education pathways for every learner | [▶ Live](https://pathfinder-learner-guide.vercel.app/) | Lovable + Vercel |
 | 🐾 **Pet Salon** | On-demand pet grooming & salon booking platform | [▶ Live](https://pet-salon-seven.vercel.app/) | Lovable + Vercel |
 | 🍽️ **QuickPlate** | Smart meal planner for busy users — quick healthy meals in seconds | [▶ Live](https://quickplate-for-busy-user.vercel.app/) | Lovable + Vercel |
+| 🎨 **Crafto** | AI-powered content & status creation tool for social media | [▶ Live](https://crafto-status.vercel.app/) | Lovable + Vercel |
+| 🧭 **Chrome Navigator** | Easy navigation Chrome extension — browse smarter & faster | [▶ Live](https://chrome-easy-navigator.vercel.app/) | Lovable + Vercel |
 
 </div>
 
